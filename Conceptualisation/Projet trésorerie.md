@@ -1,0 +1,1 @@
+Fichier excel faisant état de plusieurs scénarios sur le financement du projet et ses potentielles recettes.

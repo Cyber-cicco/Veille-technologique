@@ -1,0 +1,1 @@
+Aide pour donner les cores concepts de son entreprise. Le remplir permet de vérifier quels

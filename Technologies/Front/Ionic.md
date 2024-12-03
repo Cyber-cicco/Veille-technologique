@@ -1,0 +1,1 @@
+Très facile à prendre en main, il s'agit juste d'une application web. Utilise le tooling de google. Très peu performant ceci dit.

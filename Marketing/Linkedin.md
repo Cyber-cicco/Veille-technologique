@@ -1,0 +1,1 @@
+Réseau social professionnel. Permet de surtout parler aux recruteurs et investisseurs. N'est pas une plateforme pour viser le client final.

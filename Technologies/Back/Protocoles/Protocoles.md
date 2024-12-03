@@ -1,0 +1,1 @@
+Liste des différentes façon de créer et recevoir un message pour les serveurs. Le choix du protocole va dépendre de la fonctionnalité
