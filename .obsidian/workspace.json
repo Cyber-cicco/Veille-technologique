@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de projet/Gestion de projet.md",
+                "file": "Gestion de projet/Outils/Zoho projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestion de projet"
+              "title": "Zoho projects"
             }
           }
         ],
@@ -249,8 +249,18 @@
   },
   "active": "9a61abb46439d73d",
   "lastOpenFiles": [
-    "Entreprise Application mobile.md",
+    "Gestion de projet/Outils/Wrike.md",
+    "Gestion de projet/Outils/Todoist.md",
+    "Gestion de projet/Outils/Odoo.md",
+    "Gestion de projet/Outils/Jira.md",
+    "Gestion de projet/Outils/Hubspot.md",
+    "Gestion de projet/Outils/Favro.md",
+    "Gestion de projet/Outils/Asana.md",
+    "Gestion de projet/Outils/Github Projects.md",
+    "Gestion de projet/Outils/Zoho projects.md",
     "Gestion de projet/Gestion de projet.md",
+    "Gestion de projet/Outils",
+    "Entreprise Application mobile.md",
     "Technologies/Back/Protocoles/Protocoles.md",
     "Gestion de projet",
     "Technologies/Back/Languages/Go/Gin.md",
@@ -269,21 +279,11 @@
     "Technologies/Devops/Devops.md",
     "Technologies/Front/Front.md",
     "Technologies/Front/Flutter.md",
-    "Technologies/Front/React native/Expo.md",
-    "Technologies/Front/React native/Expo EAS.md",
-    "Technologies/Front/React native/React native.md",
-    "Technologies/Front/Ionic.md",
-    "Technologies/Technologies.md",
-    "Marketing/Marketing et commerce.md",
-    "Marketing/Mailing.md",
-    "Marketing/Réseau personnel.md",
-    "Marketing/Programmes.md",
     "Technologies/Devops/Serverless",
     "Technologies/Back/Languages",
     "Technologies/Back/Languages/Rust",
     "Technologies/Devops/Self-hosting",
     "Technologies/Front/React native",
-    "Technologies/Devops/Conteneurs",
-    "Technologies/Devops"
+    "Technologies/Devops/Conteneurs"
   ]
 }
